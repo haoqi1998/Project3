@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Project3.cpp
+Project3.cpp(39): warning C4101: “buffTmp”: 未引用的局部变量
+    正在创建库 C:\Users\7h\Desktop\软件工程\Project3\Release\Project3.lib 和对象 C:\Users\7h\Desktop\软件工程\Project3\Release\Project3.exp
+  正在生成代码
+  All 444 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project3.vcxproj -> C:\Users\7h\Desktop\软件工程\Project3\Release\Project3.exe
+  Project3.vcxproj -> C:\Users\7h\Desktop\软件工程\Project3\Release\Project3.pdb (Full PDB)
